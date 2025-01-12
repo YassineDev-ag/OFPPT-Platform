@@ -1,8 +1,5 @@
 # OFPPT-PLATFORM
 
-## Official Website Development of the Institution
-
-### Introduction
 The project involves developing the official website of the institution to showcase its services, news, courses, and provide contact information. This website will aim to offer an intuitive and well-structured interface so users can easily navigate and access all essential information. The technologies used for this project are HTML, CSS, and Bootstrap 5. The minimal structure of the website consists of 4 main pages, each with specific functionalities.
 
 ### Project Objective
